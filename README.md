@@ -18,7 +18,10 @@ Once the customer thinks he has finished buying the grocery item or have done th
 ## Technical Specification
 Following is the Technical Requirement for running the Application,
 
-###### Python 3.8.1
+###### Python 3.8.1 
+###### Flask 1.1.1
+###### Werkzeug 0.16.1
+
 ###### Angular CLI: 8.3.23
 ###### Node: 12.14.1
 ###### OS: win32 x64
