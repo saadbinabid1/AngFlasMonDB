@@ -43,3 +43,6 @@ Package                      Version
 4. cd to 'Client' folder in the project and run the command 'npm start'
 5. go to web browser and add the url: http://localhost:4200/ (tested with recent version of chrome and firefox)
 6. Enjoy the App.
+
+##Trouble Shooting
+You are required to make a MongoDB database (local database) with the name 'meantask' with the collection 'tasks'
