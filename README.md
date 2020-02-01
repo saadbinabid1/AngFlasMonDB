@@ -27,19 +27,19 @@ Following is the Technical Requirement for running the Application,
 
 Package                      Version
 ------------------------------------------------------
-@angular-devkit/architect    0.803.23
-@angular-devkit/core         8.3.23
-@angular-devkit/schematics   8.3.23
-@angular/cli                 8.3.23
-@schematics/angular          8.3.23
-@schematics/update           0.803.23
-rxjs                         6.0.0
+- @angular-devkit/architect    0.803.23
+- @angular-devkit/core         8.3.23
+- @angular-devkit/schematics   8.3.23
+- @angular/cli                 8.3.23
+- @schematics/angular          8.3.23
+- @schematics/update           0.803.23
+- rxjs                         6.0.0
 
 ## For running the application follow the steps,
-
-1- Clone the repository
-2- cd to the directory. Run the command set FLASK_APP=mongo.py
-3- run the command 'flask run' in the terminal
-4- cd to 'Client' folder in the project and run the command 'npm start'
-5- go to web browser and add the url: http://localhost:4200/ (tested with recent version of chrome and firefox)
-6- Enjoy the App.
+         
+1. Clone the repository
+2. cd to the directory. Run the command set FLASK_APP=mongo.py
+3. run the command 'flask run' in the terminal
+4. cd to 'Client' folder in the project and run the command 'npm start'
+5. go to web browser and add the url: http://localhost:4200/ (tested with recent version of chrome and firefox)
+6. Enjoy the App.
