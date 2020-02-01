@@ -45,4 +45,4 @@ Package                      Version
 6. Enjoy the App.
 
 ##Trouble Shooting
-You are required to make a MongoDB database (local database) with the name 'meantask' with the collection 'tasks'
+You are required to make a MongoDB database (local database) with the name 'meantask' with the collection name 'tasks'
